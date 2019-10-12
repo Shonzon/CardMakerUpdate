@@ -1,0 +1,4 @@
+#Sun Oct 13 00:08:31 BDT 2019
+base.0=D\:\\card\\CardMaker-20191011T152348Z-001\\CardMaker\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

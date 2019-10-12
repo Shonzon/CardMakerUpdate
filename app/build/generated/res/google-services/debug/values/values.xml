@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">921465162025-oevmqvhtfpkkiagu1qo4ts33kafiaqqe.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://card-maker-a6a72.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">921465162025</string>
+    <string name="google_api_key" translatable="false">AIzaSyCQvhx8qGYyGIVeklTL0o2zwouB5JFY5oA</string>
+    <string name="google_app_id" translatable="false">1:921465162025:android:437f2defb1ae2da9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCQvhx8qGYyGIVeklTL0o2zwouB5JFY5oA</string>
+    <string name="google_storage_bucket" translatable="false">card-maker-a6a72.appspot.com</string>
+    <string name="project_id" translatable="false">card-maker-a6a72</string>
+</resources>
